@@ -1,0 +1,30 @@
+{
+	"songs": [
+		[
+			"tilintrouble",
+			"tilin",
+			[
+				46,
+				53,
+				73
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "tilin",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "tilin ete sech y el pepe",
+	"weekName": "tilin trouble",
+	"freeplayColor": [
+		0,
+		0,
+		93
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
